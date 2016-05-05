@@ -260,6 +260,9 @@ max-width: 350px;
 	display: flex;
 	width:100%;
 }
+.option>p{
+	display: none;
+}
 .option{
 	
 	color: rgb(96,190,174) ;
