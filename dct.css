@@ -160,6 +160,9 @@ max-width: 350px;
 	text-align: center;
 	width: 50%;
 }
+.option>p{
+	display:none;
+}
 #nav-info>aside{
 	display: none;
 }
@@ -255,7 +258,7 @@ max-width: 350px;
 	#nd-nav{
 	display:inline-block;
 	display: flex;
-
+	width:100%;
 }
 .option{
 	
